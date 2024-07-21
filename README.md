@@ -3,7 +3,7 @@
 ContenGenie is an AI-powered content generation tool designed to help African businesses create engaging, personalized, and culturally relevant content efficiently. The platform leverages advanced AI models to generate text, images, and videos, providing a comprehensive solution for content creation.
 
 <p align="center">
-  <img src="https://github.com/ismail-hamdach/ai-chatbot-ai-hackathon/blob/main/public/chatbot.jpeg" width="750" title="hover text">
+  <img src="https://github.com/ismail-hamdach/ai-chatbot-ai-hackathon/blob/main/public/chatbot.jpeg" width="1080" title="hover text">
 <!--   <img src="https://github.com/ismail-hamdach/ai-chatbot-ai-hackathon/blob/main/public/chatbot.jpeg" width="350" alt="accessibility text"> -->
 </p>
 
