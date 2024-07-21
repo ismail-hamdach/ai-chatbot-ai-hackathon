@@ -4,7 +4,7 @@ ContenGenie is an AI-powered content generation tool designed to help African bu
 
 <p align="center">
   <img src="https://github.com/ismail-hamdach/ai-chatbot-ai-hackathon/blob/main/public/chatbot.jpeg" width="350" title="hover text">
-  <img src="https://github.com/ismail-hamdach/ai-chatbot-ai-hackathon/blob/main/public/chatbot.jpeg" width="350" alt="accessibility text">
+<!--   <img src="https://github.com/ismail-hamdach/ai-chatbot-ai-hackathon/blob/main/public/chatbot.jpeg" width="350" alt="accessibility text"> -->
 </p>
 
 ## Project Overview
